@@ -13,6 +13,13 @@ Reference Link: [https://angular.cn/guide/setup-local](https://angular.cn/guide/
 > Make sure you run `ng --help` can return ng command help information
 
 ### 3. Install VS Code Extensions
-> Install VS Code exteison `Angular Language Service` and `ESLint`
+> Install VS Code exteison `Angular Language Service` and `ESLint` 
 > 
 > ![image](https://github.com/TWA-AFS-202310/.github/assets/1411722/aa0372f0-70a5-4cc0-9ba3-668f4772c20e)
+
+### Optional
+
+Install Karma VS Code extension `lucono.karma-test-explorer`
+
+<img width="336" alt="image" src="https://github.com/TWA-AFS-202310/LearningMaterials/assets/1411722/ac15378b-81b8-49b2-b8ff-5e171c1f80ea">
+
